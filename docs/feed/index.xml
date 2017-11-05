@@ -10,7 +10,7 @@
 <channel>
 	<title>Machine Learning</title>
 	<atom:link href="http://localhost/MLBlog/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>https://mdnk.github.io/machine-learning-blog</link>
 	<description>Revolutionary</description>
 	<lastBuildDate>Sun, 05 Nov 2017 02:48:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,17 +19,17 @@
 	<generator>https://wordpress.org/?v=4.8.3</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/2017/10/30/hello-world/</link>
-		<comments>/2017/10/30/hello-world/#comments</comments>
+		<link>https://mdnk.github.io/machine-learning-blog/2017/10/30/hello-world/</link>
+		<comments>https://mdnk.github.io/machine-learning-blog/2017/10/30/hello-world/#comments</comments>
 		<pubDate>Mon, 30 Oct 2017 19:24:52 +0000</pubDate>
 		<dc:creator><![CDATA[tekie]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://mdnk.github.io/machine-learning-blog/?p=1</guid>
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2017/10/30/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>https://mdnk.github.io/machine-learning-blog/2017/10/30/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
